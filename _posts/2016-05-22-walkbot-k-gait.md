@@ -1,19 +1,21 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=funPtecmhGw'
 inLanguage: null
 keywords: []
-description: Uploaded by Thorsten Gohlke on 2015-05-06.
-datePublished: '2016-05-22T19:37:31.842Z'
-dateModified: '2016-05-22T19:37:25.460Z'
+description: ''
+datePublished: '2016-05-22T19:42:47.794Z'
+dateModified: '2016-05-22T19:39:23.685Z'
 author:
-  - name: Thorsten Gohlke
+  - name: ''
     url: 'https://www.youtube.com/channel/UCUT9bKkCrIDFA4Yk0Kma_Cg'
     avatar: {}
 related: []
 app_links: []
 title: Walkbot K Gait
+sourcePath: _posts/2016-05-22-walkbot-k-gait.md
 authors: []
 publisher:
   name: YouTube
@@ -21,8 +23,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-22-walkbot-k-gait.md
-url: walkbot-k-gait/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

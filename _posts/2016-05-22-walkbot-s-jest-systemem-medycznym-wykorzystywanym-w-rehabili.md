@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: "Walkbot S jest systemem medycznym wykorzystywanym w rehabilitacji neurologicznej, dzięki któremu pacjenci z zaburzeniami ruchu mogą odzyskać pełnię sprawności.\_"
-datePublished: '2016-05-22T20:01:16.438Z'
-dateModified: '2016-05-22T20:00:19.098Z'
+description: 'Walkbot S jest systemem medycznym wykorzystywanym w rehabilitacji neurologicznej, dzięki któremu pacjenci z zaburzeniami ruchu mogą odzyskać pełnię sprawności. '
+datePublished: '2016-05-22T20:07:39.610Z'
+dateModified: '2016-05-22T20:06:59.435Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-22-walkbot-s-jest-systemem-medycznym-wykorzystywanym-w-rehabili.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-walkbot-s-jest-systemem-medycznym-wykorzystywanym-w-rehabili.md
 url: walkbot-s-jest-systemem-medycznym-wykorzystywanym-w-rehabili/index.html
 _type: Article
 

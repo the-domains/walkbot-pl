@@ -4,7 +4,7 @@
         <description><![CDATA[WALKBOT]]></description>
         <link>https://thegrid.ai/walkbot-pl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 20:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 20:17:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/walkbot-pl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[O WALKBOT]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/walkbot-pl/o-walkbot/index.html</link>
             <guid isPermaLink="false">315188bc-1d8f-45a4-ad93-3b000e1d8fad</guid>
             <pubDate>Sun, 22 May 2016 19:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WALKBOT K / dla dzieci]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/walkbot-pl/walkbot-k-to-kolejny-niezalezny-model-serii-walkbot-ktory-j/index.html</link>
+            <guid isPermaLink="false">e897254d-079d-4d38-924c-6ecea09156af</guid>
+            <pubDate>Sun, 22 May 2016 20:17:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WALKBOT S / dla dorosłych]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/walkbot-pl/robot-assisted-gait-training-system-walkbot/index.html</link>
             <guid isPermaLink="false">368eeab7-2b97-4aab-80d2-1dd8aef222c6</guid>
             <pubDate>Sun, 22 May 2016 20:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WALKBOT K dla dzieci]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/walkbot-pl/walkbot-k-to-kolejny-niezalezny-model-serii-walkbot-ktory-j/index.html</link>
-            <guid isPermaLink="false">e897254d-079d-4d38-924c-6ecea09156af</guid>
-            <pubDate>Sun, 22 May 2016 19:57:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walkbot K Gait]]></title>

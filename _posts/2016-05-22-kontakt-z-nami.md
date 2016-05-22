@@ -5,12 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T21:25:39.317Z'
-dateModified: '2016-05-22T21:25:28.529Z'
+datePublished: '2016-05-22T21:26:09.593Z'
+dateModified: '2016-05-22T21:25:42.266Z'
 author: []
 related: []
 app_links: []
 title: ''
+sourcePath: _posts/2016-05-22-kontakt-z-nami.md
 authors: []
 publisher:
   name: Google Maps
@@ -18,7 +19,6 @@ publisher:
   url: 'http://google.com/maps'
   favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
 starred: false
-sourcePath: _posts/2016-05-22-kontakt-z-nami.md
 url: kontakt-z-nami/index.html
 _type: Place
 _context: 'http://schema.org'

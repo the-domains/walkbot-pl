@@ -4,10 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-22T21:34:22.653Z'
-dateModified: '2016-05-22T21:31:07.667Z'
-author: []
+description: 'ul. Parafialna 1 47-100 Strzelce Opolskie Poland NIP: 756-197-55-47 EU NIP: PL7561975547 REGON: 161547357 NUMER REJESTROWY GIOŚ: E0007852WZ'
+datePublished: '2016-05-22T21:37:31.325Z'
+dateModified: '2016-05-22T21:36:57.646Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: ''
@@ -24,8 +26,6 @@ _type: Place
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e791343-6178-4561-b269-ee64029852d2.jpg)
-
 ##### ****
 
 ##### **PRO VITA Polska Sp. z o.o. Sp. K.**

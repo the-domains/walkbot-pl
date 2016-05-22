@@ -1,6 +1,6 @@
 name: WALKBOT
 favicon: null
-layout_spectrum: 0.92323
+layout_spectrum: 0.66176
 typography_spectrum: 0.50163
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#c3c3c3'
     - '#b3b3b3'
   brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.25
+  lightness: 0.75
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []

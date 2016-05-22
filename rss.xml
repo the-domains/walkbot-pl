@@ -4,7 +4,7 @@
         <description><![CDATA[WALKBOT]]></description>
         <link>https://thegrid.ai/walkbot-pl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 20:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 20:17:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/walkbot-pl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[O WALKBOT]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/walkbot-pl/o-walkbot/index.html</link>
             <guid isPermaLink="false">315188bc-1d8f-45a4-ad93-3b000e1d8fad</guid>
             <pubDate>Sun, 22 May 2016 19:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WALKBOT S / dla dorosłych]]></title>
+            <description><![CDATA[<p>Walkbot S jest systemem medycznym wykorzystywanym w rehabilitacji neurologicznej, dzięki któremu pacjenci z zaburzeniami ruchu mogą odzyskać pełnię sprawności. </p>]]></description>
+            <link>https://thegrid.ai/walkbot-pl/walkbot-s-dla-doroslych/index.html</link>
+            <guid isPermaLink="false">08d56162-4345-44b1-8580-1331f54ec04b</guid>
+            <pubDate>Sun, 22 May 2016 20:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walkbot K Gait]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/walkbot-pl/walkbot-k-to-kolejny-niezalezny-model-serii-walkbot-ktory-j/index.html</link>
             <guid isPermaLink="false">e897254d-079d-4d38-924c-6ecea09156af</guid>
             <pubDate>Sun, 22 May 2016 20:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WALKBOT S / dla dorosłych]]></title>
-            <description><![CDATA[<p>Walkbot S jest systemem medycznym wykorzystywanym w rehabilitacji neurologicznej, dzięki któremu pacjenci z zaburzeniami ruchu mogą odzyskać pełnię sprawności. </p>]]></description>
-            <link>https://thegrid.ai/walkbot-pl/walkbot-s-dla-doroslych/index.html</link>
-            <guid isPermaLink="false">08d56162-4345-44b1-8580-1331f54ec04b</guid>
-            <pubDate>Sun, 22 May 2016 20:16:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robot-assisted Gait Training System (WALKBOT)]]></title>

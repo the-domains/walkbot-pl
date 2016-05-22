@@ -4,15 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' '
-datePublished: '2016-05-22T20:22:35.581Z'
-dateModified: '2016-05-22T20:22:25.729Z'
+description: ''
+datePublished: '2016-05-22T20:47:11.049Z'
+dateModified: '2016-05-22T20:44:36.093Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-22-walkbot-g-dla-dzieci-i-doroslych.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-walkbot-g-dla-dzieci-i-doroslych.md
 url: walkbot-g-dla-dzieci-i-doroslych/index.html
 _type: Article
 

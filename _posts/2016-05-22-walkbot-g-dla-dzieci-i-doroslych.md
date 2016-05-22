@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T20:47:11.049Z'
-dateModified: '2016-05-22T20:44:36.093Z'
+datePublished: '2016-05-22T20:59:13.413Z'
+dateModified: '2016-05-22T20:59:12.898Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-22-walkbot-g-dla-dzieci-i-doroslych.md
 authors: []
 publisher: null
@@ -17,7 +19,7 @@ url: walkbot-g-dla-dzieci-i-doroslych/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3e60eab-1c10-4cce-9699-10f56f494b87.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5a8ae74995de5a9e261c24e5987ecf36f3b06e9.jpg)
 
 ********
 

@@ -1,7 +1,7 @@
 name: walkbot.pl
 favicon: null
 layout_spectrum: 0.8228242106270045
-typography_spectrum: 0.43997084349393845
+typography_spectrum: 0.39792
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#3f3f41'
+    - '#0f112a'
+    - '#828284'
+    - '#c0c1c3'
   brandStrength: 0.6450486539397389
   lightness: 0.09831219539046288
   saturation: 0.4745217349845916

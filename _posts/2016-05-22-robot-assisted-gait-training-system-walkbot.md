@@ -15,8 +15,8 @@ keywords:
   - meditouch
   - walkbot_s
 description: ''
-datePublished: '2016-05-22T20:04:53.976Z'
-dateModified: '2016-05-22T20:04:48.340Z'
+datePublished: '2016-05-22T20:05:21.376Z'
+dateModified: '2016-05-22T20:05:18.577Z'
 author:
   - name: 김신호
     url: 'https://www.youtube.com/user/sinhokims'
@@ -60,6 +60,7 @@ app_links:
     namespace: google
     type: ios
 title: Robot-assisted Gait Training System (WALKBOT)
+sourcePath: _posts/2016-05-22-robot-assisted-gait-training-system-walkbot.md
 authors: []
 publisher:
   name: YouTube
@@ -67,7 +68,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-22-robot-assisted-gait-training-system-walkbot.md
 url: robot-assisted-gait-training-system-walkbot/index.html
 _type: VideoObject
 _context: 'http://schema.org'

@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-22T21:26:09.593Z'
-dateModified: '2016-05-22T21:25:42.266Z'
+datePublished: '2016-05-22T21:29:08.408Z'
+dateModified: '2016-05-22T21:29:06.328Z'
 author: []
 related: []
 app_links: []
@@ -26,11 +26,11 @@ _context: 'http://schema.org'
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e791343-6178-4561-b269-ee64029852d2.jpg)
 
+##### ****
+
 ##### **PRO VITA Polska Sp. z o.o. Sp. K.**
 
 ###### SZYBKI KONTAKT (wszystkie działy):
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FPRO%2BVITA%2BPolska%2B%252F%2BCentrum%2BInnowacyjnych%2BTechnologii%2BMedycznych%2F%4050.3643111%2C18.4494237%2C10z%2Fdata%3D%214m8%211m2%212m1%211sPRO%2BVITA%2Bgliwice%213m4%211s0x4711310752a6bd99%3A0x2d4b6d10a656de1f%218m2%213d50.2928465%214d18.6852632%3Fhl%3Dpl%26dg%3Ddbrw%26newdg%3D1&amp;src=https%3A%2F%2Fwww.google.com%2Fmaps%2Fembed%2Fv1%2Fplace%3Fcenter%3D50.3643111%252C18.4494237%26key%3DAIzaSyBctFF2JCjitURssT91Am-_ZWMzRaYBm4Q%26zoom%3D10%26q%3DPRO%2BVITA%2BPolska%2B%252F%2BCentrum%2BInnowacyjnych%2BTechnologii%2BMedycznych&amp;type=text%2Fhtml&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;schema=google" width="600" height="450" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 * +48 77 4621300
 * +48 77 4621301
@@ -48,6 +48,10 @@ NIP: 756-197-55-47
 EU NIP: PL7561975547  
 REGON: 161547357  
 NUMER REJESTROWY GIOŚ: E0007852WZ
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FPRO%2BVITA%2BPolska%2B%252F%2BCentrum%2BInnowacyjnych%2BTechnologii%2BMedycznych%2F%4050.3643111%2C18.4494237%2C10z%2Fdata%3D%214m8%211m2%212m1%211sPRO%2BVITA%2Bgliwice%213m4%211s0x4711310752a6bd99%3A0x2d4b6d10a656de1f%218m2%213d50.2928465%214d18.6852632%3Fhl%3Dpl%26dg%3Ddbrw%26newdg%3D1&amp;src=https%3A%2F%2Fwww.google.com%2Fmaps%2Fembed%2Fv1%2Fplace%3Fcenter%3D50.3643111%252C18.4494237%26key%3DAIzaSyBctFF2JCjitURssT91Am-_ZWMzRaYBm4Q%26zoom%3D10%26q%3DPRO%2BVITA%2BPolska%2B%252F%2BCentrum%2BInnowacyjnych%2BTechnologii%2BMedycznych&amp;type=text%2Fhtml&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;schema=google" width="600" height="450" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+
 
 [0]: mailto:biuro@sprzetmedyczny.pl
 [1]: http://www.sprzetmedyczny.pl/

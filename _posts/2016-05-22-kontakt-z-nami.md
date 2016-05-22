@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'ul. Parafialna 1 47-100 Strzelce Opolskie Poland NIP: 756-197-55-47 EU NIP: PL7561975547 REGON: 161547357 NUMER REJESTROWY GIOŚ: E0007852WZ'
-datePublished: '2016-05-22T21:37:31.325Z'
-dateModified: '2016-05-22T21:36:57.646Z'
+datePublished: '2016-05-22T21:38:43.366Z'
+dateModified: '2016-05-22T21:37:37.754Z'
 author:
   - name: ''
     url: ''

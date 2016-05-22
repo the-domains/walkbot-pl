@@ -1,7 +1,7 @@
 name: walkbot.pl
 favicon: null
-layout_spectrum: 0.8228242106270045
-typography_spectrum: 0.39792
+layout_spectrum: 1
+typography_spectrum: 0.7949
 cta:
   domain: null
   bucket: null

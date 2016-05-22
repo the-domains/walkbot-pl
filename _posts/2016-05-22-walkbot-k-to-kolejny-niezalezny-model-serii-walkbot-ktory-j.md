@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' '
-datePublished: '2016-05-22T19:43:11.009Z'
-dateModified: '2016-05-22T19:31:27.039Z'
+description: ''
+datePublished: '2016-05-22T19:50:59.342Z'
+dateModified: '2016-05-22T19:49:23.750Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-walkbot-k-to-kolejny-niezalezny-model-serii-walkbot-ktory-j.md

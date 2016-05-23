@@ -1,27 +1,27 @@
 ---
-description: ''
-datePublished: '2016-05-22T21:59:02.997Z'
-app_links: []
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=funPtecmhGw'
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-23T17:47:14.980Z'
+dateModified: '2016-05-23T16:36:51.386Z'
+app_links: []
 author:
   - name: ''
     url: 'https://www.youtube.com/channel/UCUT9bKkCrIDFA4Yk0Kma_Cg'
     avatar: {}
 sourcePath: _posts/2016-05-22-walkbot-k-gait.md
-hasPage: false
-authors: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=funPtecmhGw'
 title: Walkbot K Gait
-keywords: []
+related: []
+authors: []
 publisher:
-  favicon: 'https://www.youtube.com/favicon.ico'
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
-dateModified: '2016-05-22T21:58:43.432Z'
-related: []
-inFeed: true
+  favicon: 'https://www.youtube.com/favicon.ico'
 starred: false
 _type: VideoObject
 _context: 'http://schema.org'

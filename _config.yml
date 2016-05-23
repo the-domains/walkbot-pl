@@ -1,29 +1,40 @@
-name: WALKBOT
-favicon: null
-layout_spectrum: 0.66176
-typography_spectrum: 0.50163
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.66176
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 0.1875
+  rhythmicContrast: 0.5
   brandColors:
     - '#fcfcfc'
     - '#ebebeb'
     - '#d2d2d2'
     - '#c3c3c3'
     - '#b3b3b3'
-  brandStrength: 0.1875
   lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: WALKBOT
+typography_spectrum: 0.50163

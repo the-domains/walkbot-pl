@@ -4,7 +4,7 @@
         <description><![CDATA[WALKBOT]]></description>
         <link>http://walkbot.pl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 17:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 17:46:51 GMT</lastBuildDate>
         <atom:link href="http://walkbot.pl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WALKBOT]]></title>
@@ -12,6 +12,12 @@
             <link>http://walkbot.pl/o-walkbot/index.html</link>
             <guid isPermaLink="false">315188bc-1d8f-45a4-ad93-3b000e1d8fad</guid>
             <pubDate>Mon, 23 May 2016 17:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KONTAKT]]></title>
+            <link>http://walkbot.pl/kontakt/index.html</link>
+            <guid isPermaLink="false">6f72cb48-4cd9-4783-82bb-98c2098ed13d</guid>
+            <pubDate>Mon, 23 May 2016 17:46:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PRO VITA]]></title>
@@ -26,12 +32,6 @@
             <link>https://www.youtube.com/watch?v=funPtecmhGw</link>
             <guid isPermaLink="false">a7ca2097-b56c-4961-8a66-3d5545050cae</guid>
             <pubDate>Sun, 22 May 2016 21:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KONTAKT]]></title>
-            <link>http://walkbot.pl/kontakt/index.html</link>
-            <guid isPermaLink="false">6f72cb48-4cd9-4783-82bb-98c2098ed13d</guid>
-            <pubDate>Sun, 22 May 2016 21:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WALKBOT K / dla dzieci]]></title>

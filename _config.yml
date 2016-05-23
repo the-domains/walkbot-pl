@@ -1,7 +1,7 @@
 name: WALKBOT
 favicon: null
-layout_spectrum: 0.66176
-typography_spectrum: 0.50163
+layout_spectrum: 0.3988326962571591
+typography_spectrum: 0.7444479153491557
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fcfcfc'
-    - '#ebebeb'
-    - '#d2d2d2'
-    - '#c3c3c3'
-    - '#b3b3b3'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.4675092070829123
+  lightness: 0.20780215738341212
+  saturation: 0.6578535470180213
+  rhythmicContrast: 0.13184548332355917
 purpose: []

@@ -2,6 +2,7 @@ name: WALKBOT
 favicon: null
 layout_spectrum: 0.66176
 typography_spectrum: 0.50163
+title: null
 cta:
   domain: null
   bucket: null

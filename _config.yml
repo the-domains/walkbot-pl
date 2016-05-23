@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.50163
 opengraph:
   image: null
   type: null
@@ -12,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.66176
 cta:
   bucket: null
@@ -36,5 +33,8 @@ color:
   lightness: 0.625
 purpose: []
 favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: WALKBOT
-typography_spectrum: 0.50163
